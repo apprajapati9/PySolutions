@@ -1,5 +1,6 @@
 import sys
 import random
+
 print("enter your name")
 name = input()
 

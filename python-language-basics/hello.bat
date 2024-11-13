@@ -1,0 +1,2 @@
+@py GuessNumberGame.py %*
+@pause
