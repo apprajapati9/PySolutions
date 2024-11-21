@@ -13,4 +13,4 @@ def get_fibonacci(till):
         second = total
         print(total)
 
-get_fibonacci(100)
+get_fibonacci(10)
