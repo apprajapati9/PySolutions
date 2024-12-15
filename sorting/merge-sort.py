@@ -41,7 +41,6 @@ def sort(arr, first, middle, end):
             temp.append(arr[right])
             right += 1
             size2 -= 1
-        
 
     for i in temp:
         arr[first] = i
@@ -65,7 +64,7 @@ def mergeSort(arr, start, end):
         sort(arr, start, middle, end)
 
 
-arr = [3,1,2,5,8,4,1,2,10,22,8,10]
+arr = [3,6,1,5,8,4,6,2,10,22,8,60]
 
 mergeSort(arr, 0, len(arr)-1)
 
