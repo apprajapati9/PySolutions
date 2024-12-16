@@ -167,4 +167,105 @@ for i in range(1,10):
 print(mSet)
 print(arr)
 
+print("=== HashMaps ===")
+
+mapp = {}
+mapp["ajay"] = 88
+mapp["ajay2"] = 33
+
+print(mapp)
+
+print(mapp["ajay"])
+
+for key in mapp:
+    print(key, mapp[key])
+
+for val in mapp.values():
+    print(val)
+
+for key in mapp.items():
+    print(key)
+
+#extract each
+for key,val in mapp.items():
+    print(key,val)
+
+print()
+
+print("=== Tuples ===")
+print("Tuples are like arrays but immutable")
+tup = (1,2,3)
+print(tup)
+
+print("=== Heaps ===")
+
+import heapq
+heap = []
+heapq.heappush(heap,4)
+heapq.heappush(heap,3)
+heapq.heappush(heap,2)
+
+# Min is always at index 0
+print(heap[0])
+
+#print all heap values
+while len(heap):
+    print(heapq.heappop(heap))
+
+#build heap from init values
+print("Build heap from init values")
+
+arr = [2,1,8,4,5]
+heapq.heapify(arr)
+while arr:
+    print(heapq.heappop(arr))
+
+print("=== Functions ===")
+
+def sum(a,b):
+    return a+b
+
+print(sum(12,12))
+
+print()
+print("Nested functions")
+def outer(a,b):
+    c = "c"
+    def inner():
+        return a+b+c
+    return inner()
+
+print(outer("a","b"))
+
+print()
+print("Can modify objects but no reassign")
+def double(arr, val):
+    def helper():
+        for i,n in enumerate(arr):
+            arr[i] *=2
+
+        #will only modify val in the helper scope
+
+        nonlocal val
+        val *= 2
+
+    helper()
+    print(arr, val)
+
+arr = [1,2]
+double(arr, val)
+print(arr)
+
+print("=== Classes ====")
+
+class Ajay:
+    def __init__(self):
+      	self.name = "aaaajay"
+
+ajay = Ajay()
+
+print(ajay.name)
+
+def ajay(num1, num2):
+    return num1*num2
 

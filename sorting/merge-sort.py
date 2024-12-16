@@ -50,7 +50,7 @@ def sort(arr, first, middle, end):
 def printArr(arr):
     print("Printing arr: ")
     for i in arr:
-        print(i)
+        print(i, end=",")
 
     print()
         
