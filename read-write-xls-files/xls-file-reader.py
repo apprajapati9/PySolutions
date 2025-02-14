@@ -31,7 +31,9 @@ teams_map = {
     "IND": "Indiana Pacers",
     "LAL": "Los Angeles Lakers",
     "BOS": "Boston Celtics",
-    "POR":"Portland Trail Blazers"
+    "POR": "Portland Trail Blazers",
+    "NYK": "New York Nicks",
+    "LAC": "Los Angeles Clippers"
 }
 
 def replace_delim(output_file, delim = ""):

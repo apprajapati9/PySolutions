@@ -1,0 +1,78 @@
+Urls 
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=CLE
+Cleavlend cavaliers
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=DET
+Detroit pistons
+
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=SAS
+San antonio spurs
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=ATL
+Atlanta hawks
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=MIL
+Milwaukee bucks
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=CHA
+Charlotte hornets
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=MEM
+Memphis grizzlies
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=TOR
+Toronto raptors
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=MIA
+Miami heat
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=PHI
+Philadelphia 67ers
+
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=WAS
+Washington wizards
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=NJN
+Brooklyn nets
+
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=CHI
+Chicago bulls
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=MIN
+Minnesota timberwolves
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=GSW
+Golden state warriors
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=UTA
+Utah jazz
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=NOH
+New orleans pelicans
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=DEN
+Denver nuggets
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=PHO
+Phoenix suns
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=OKC
+Oklahoma city thunders
+
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=ORL
+Orlando magic
+https://stathead.com/basketball/team-game-finder.cgi?request=1&order_by=diff_off_rtg&timeframe=seasons&year_min=2025&year_max=2025&team_id=SAC
+Sacramanto kings
+
+
+
+HOU - Houston rockets
+DAL - Dallas Mavericks 
+IND - Indiana Pacers
+LAL - Los Angeles Lakers
+
+
+BOS-  Boston Celtics
